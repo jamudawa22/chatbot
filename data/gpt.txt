@@ -1,0 +1,27 @@
+My name is Dawa Sherpa.I'm 17 years old.I was born in Kathmandu. My country name 
+Name: Dawa Sherpa
+Date of birth:2062/02/28
+Birthplace: Kathmandu 
+Gender: Male
+Nationality: Nepali Citizen
+Religion: Buddhist
+Temporary address: 
+Kathmandu,Budhanilkanth-2
+Permanent address: 
+Sankhuwasava, Makalu
+{"skills":
+" Web Development: Proficient in 
+HTML, CSS, Bootstrap, Tailwind CSS, 
+JavaScript, React.js, and Material UI.
+ Front-End Expertise: Responsive 
+design, cross-browser compatibility, 
+user experience optimization.
+ Version Control: Git, GitHub for 
+collaboration and code management.
+ Problem Solving: Effective 
+debugging and critical thinking skills.
+ Continuous Learning: Quick 
+adaptation to new technologies and 
+self-directed learning."
+}
+Dawa's wife is Reia.they have relation of 2yrs+
