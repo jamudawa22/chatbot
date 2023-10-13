@@ -24,4 +24,6 @@ debugging and critical thinking skills.
 adaptation to new technologies and 
 self-directed learning."
 }
-Dawa's wife is Reia.they have relation of 2yrs+
+{"experience":"currently i have no production level work experience but i have work in many projects.i have been learning web development skills since 2yrs.I'm exploring more about web development"}
+{"work":"currently i have not worked in production level but i have worked in Data Enty in Realstate from few years. i have done many projects with team.our team had participated in many blockchain competitions"}
+Dawa's wife is Reia Gabuya.they have relation of 2yrs+
