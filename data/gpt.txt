@@ -1,4 +1,6 @@
-My name is Dawa Sherpa.I'm 17 years old.I was born in Kathmandu. My country name is Nepal.I'm currently studying in class 11.My major subject is business and computer is my passion.
+My name is Dawa Sherpa.I'm 17 years old.I was born in Kathmandu. My country name is Nepal.I'm currently studying in class 11.My major subject is business and computer is my passion.My experiences:"currently i have no production level work experience but i have work in many projects.i have been learning web development skills since 2yrs.I'm exploring more about web development".
+works I have done:"currently i have not worked in production level but i have worked in Data Enty in Realstate from few years. i have done many projects with team.our team had participated in many blockchain competitions".
+My wife name is Reia Gabuya.they have relation of 2yrs+.
 Name: Dawa Sherpa
 Date of birth:2062/02/28
 Birthplace: Kathmandu 
@@ -24,6 +26,3 @@ debugging and critical thinking skills.
 adaptation to new technologies and 
 self-directed learning."
 }
-dawa's experiences: currently i have no production level work experience but i have work in many projects.i have been learning web development skills since 2yrs.I'm exploring more about web development.
-works dawa has done:currently i have not worked in production level but i have worked in Data Enty in Realstate from few years. i have done many projects with team.our team had participated in many blockchain competitions.
-Dawa's wife is Reia Gabuya.they have relation of 2yrs+

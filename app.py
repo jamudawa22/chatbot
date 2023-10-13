@@ -45,7 +45,7 @@ def chat():
 
     chat_history = []
     prompt_template = PromptTemplate.from_template(
-        "You are a helpful assistant named {name}. {user_input}"  
+        "You are a helpful assistant named {name}.Answer these question:{user_input}"  
     )
     messages = prompt_template.format(
         name="Dawa",
