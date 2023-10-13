@@ -19,7 +19,10 @@ app = Flask(__name__)
 CORS(app)
 
 # Enable to save to disk & reuse the model (for repeated queries on the same data)
-
+@app.route("/", methods=["GET"])
+@cross_origin()
+def home():
+    return "hello"
 @app.route("/chat", methods=["POST"])
 @cross_origin()
 def chat():
