@@ -21,7 +21,7 @@ CORS(app)
 @cross_origin()
 def home():
     return "hello"
-@app.route("/chat", methods=["GET"])
+@app.route("/chat", methods=["POST"])
 @cross_origin()
 def chat():
     json_data = request.get_json()
