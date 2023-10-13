@@ -1,13 +1,11 @@
 from flask import Flask, jsonify, request
 import os
-import openai
-from langchain.chains import ConversationalRetrievalChain, RetrievalQA
+from langchain.chains import ConversationalRetrievalChain
 from langchain.chat_models import ChatOpenAI
-from langchain.document_loaders import DirectoryLoader, TextLoader
+from langchain.document_loaders import DirectoryLoader
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.indexes import VectorstoreIndexCreator
 from langchain.indexes.vectorstore import VectorStoreIndexWrapper
-from langchain.llms import OpenAI
 from langchain.vectorstores import Chroma
 from langchain.prompts import PromptTemplate
 import constants
@@ -23,7 +21,7 @@ CORS(app)
 @cross_origin()
 def home():
     return "hello"
-@app.route("/chat", methods=["POST"])
+@app.route("/chat", methods=["GET"])
 @cross_origin()
 def chat():
     json_data = request.get_json()
